@@ -28,6 +28,8 @@ Run the scripts `Setup.bat` form scripts folder
 
 ### Contributors
 
-<a href = "https://github.com/Sachinbhola/Vaccine-Auto-Booking-App/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Sachinbhola/Vaccine-Auto-Booking-App"/>
+<a href="https://github.com/Sachinbhola/Vaccine-Auto-Booking-App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sachinbhola/Vaccine-Auto-Booking-App" />
 </a>
+
+Made with [contributors-img](https://contrib.rocks).
