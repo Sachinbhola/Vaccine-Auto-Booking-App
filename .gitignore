@@ -228,3 +228,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+
+## VISUAL STUDIO FILES
+
+.vscode/
+
+## temp
+*.png
+scripts/
